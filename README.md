@@ -1,6 +1,6 @@
 ## Админ панель
 
-В теме создано меню в админ-панеле, которое позволяет управлять курсами.
+В теме создано меню в админ-панели, которое позволяет управлять курсами.
 
 ![alter](https://github.com/transhumanity-adept/CoursesWordpressTheme/blob/master/representationImages/AdminGeneral.png)
 
