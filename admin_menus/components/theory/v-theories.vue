@@ -98,7 +98,7 @@
                         <span
                             class="white--text text-h6 pl-3"
                         >
-                          Описание курса
+                          Содержание теории
                         </span>
                       </v-toolbar-title>
                       <v-spacer></v-spacer>
